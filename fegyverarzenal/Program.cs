@@ -10,6 +10,7 @@ namespace fegyverarzenal
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
